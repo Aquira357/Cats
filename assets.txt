@@ -1,0 +1,6 @@
+'assets/characters/player_crawl.png',
+'assets/characters/player_crouch.png',
+'assets/characters/player_idle.png',
+'assets/characters/player_sprint.png',
+'assets/characters/player_walk.png',
+'assets/levels/thing.png'
